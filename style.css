@@ -10,4 +10,10 @@ p {
 #background {
     background-image: url(guardians-of-the-galaxy-wallpaper-1920x1080-14.jpg);
     background-size: cover;
+    border: 4px rgb(148, 13, 13) solid; 
+    height: 400px;
+    width: auto;
+}
+h1 {
+    background-image:linear-gradient(to right, rgb(37, 75, 163),rgb(122, 122, 19) )
 }
