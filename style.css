@@ -17,3 +17,7 @@ p {
 h1 {
     background-image:linear-gradient(to right, rgb(37, 75, 163),rgb(122, 122, 19) )
 }
+
+.body{
+    background-color: white;
+}
